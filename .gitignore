@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*._gs
+*.gsl
+cw.mp4
+f_list.py
+test.txt
+test.py
